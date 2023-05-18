@@ -117,7 +117,7 @@ module.exports = {
         }
     }
   },
-  productInfo:{
+  productInfo_1:{
     "id": 37315,
     "campus": "hr-rfe",
     "name": "Heir Force Ones",
