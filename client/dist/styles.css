@@ -1,4 +1,8 @@
 /* All components */
+
+#root {
+  min-width: 1200px;
+}
 body {
   background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/img1_0.png");
 }
