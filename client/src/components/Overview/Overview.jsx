@@ -13,7 +13,6 @@ const Overview = ({productInfo}) => {
   const itemId = productInfo.id;
   const [itemReviews, setItemReviews] = useState();
 
-
   useEffect(()=>{
     setProductStyles([]);
     setItemInfo(productInfo);
