@@ -53,6 +53,10 @@ const App = () => {
     <div>
       <div id='FullApp'></div>
 
+      <div>
+        <h1 className="app-title">JSX</h1>
+      </div>
+
       <div className="overviewDiv">
         <Overview productInfo={productInfo}/>
       </div>
